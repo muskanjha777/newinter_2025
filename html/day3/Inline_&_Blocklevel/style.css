@@ -1,0 +1,16 @@
+h1{
+    display: inline;
+    background-color: aqua;
+}
+div{
+    height: 200px;
+    width: 1300px;
+    background-color: blueviolet;
+    display: block;
+}
+p{
+    height: 100px;
+    width: 1300px;
+    background-color: blue;
+    display: inline-block;
+}

@@ -1,0 +1,22 @@
+*{
+   margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.div1{
+    background-color: aqua;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para1{
+    padding: 20px;
+    border: 1rem solid red;
+    background-color: blueviolet;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#sec1{
+    background-color:rgb(207, 207, 108);
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+}

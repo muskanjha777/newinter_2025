@@ -1,0 +1,30 @@
+html {
+  /* font-size: 10px; */
+  /* 16px --> 100 % */
+  /* 10px --> (100/16)*100 */
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: lightcyan;
+}
+h1 {
+  font-size: 10rem;
+}
+p {
+  font-size: 5rem;
+}
+
+/*    ------------- Media Queries ------------ */
+/* as soon as width gets lower than 500px font size changes  */
+/* Break point ----> max-width :768px is called */
+
+@media (max-width: 500px) {
+  html {
+    font-size: 5px;
+  }
+  body {
+    background: lightcoral;
+  }
+}
